@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 这是主干
-提交测试
-=======
-this is branch,update
->>>>>>> 5f21df2... update1
+
